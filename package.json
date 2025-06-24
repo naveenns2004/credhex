@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.15.12",
+    "@supabase/supabase-js": "^2.39.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
